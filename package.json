@@ -1,0 +1,21 @@
+{
+  "name": "accounting-crm-backend",
+  "version": "1.0.0",
+  "description": "Serverless backend API for Accounting CRM with Google Sheets integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "accounting",
+    "crm",
+    "google-sheets",
+    "netlify",
+    "serverless"
+  ],
+  "author": "Vedaant Khandelwal",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^128.0.0"
+  }
+}
